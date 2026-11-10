@@ -1,0 +1,629 @@
+{
+  "clusters": [
+    {
+      "id": "bishnupur-terracotta",
+      "name": "Bishnupur & Panchmura Terracotta Hub",
+      "region": "Bankura District",
+      "state": "West Bengal",
+      "craft": "Terracotta & Bankura Horse",
+      "tag": "GI Tagged Craft",
+      "lat": 23.0673,
+      "lng": 87.3167,
+      "visitingHours": "08:00 AM – 06:00 PM (Daily)",
+      "bestSeason": "October to March",
+      "heroImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "rarh-craft-route",
+      "historicalContext": "Bishnupur was the capital of the Malla kings from the 8th to 18th century. In the absence of stone in Bengal's alluvial delta, artisans used local red terracotta clay to construct intricate Vaishnavite temples with panels depicting the Mahabharata, Ramayana, and royal processions.",
+      "craftTechnique": "Alluvial clay sourced from local river beds is kneaded with sand and water, shaped on a slow wheel or pressed into wooden molds, dried in shade, and baked in traditional underground wood kilns at over 800°C to achieve the distinct reddish-orange burnt finish.",
+      "i18n": {
+        "en": {
+          "title": "Bishnupur Terracotta Temples & Panchmura Kilns",
+          "shortDesc": "Home to 17th-century terracotta monuments like Rasmancha and Jor Bangla, and the iconic GI-tagged Bankura Horse.",
+          "audioText": "Welcome to Bishnupur, the historic terracotta capital of Bengal. As you walk through Rasmancha and the Jor Bangla temple, look closely at the reddish-brown burnt clay plaques. Because stone was rare in the Gangetic floodplains, 17th-century Malla rulers commissioned master artisans to carve living stories into baked earth. Just 20 kilometers away in Panchmura village, Kumbhakar potters still mold the world-famous Bankura horse with its erect ears and symmetrical neck, firing them in traditional open-flame kilns. Tap the artisan card below to reserve a live hand-molding workshop."
+        },
+        "bn": {
+          "title": "বিষ্ণুপুর পোড়ামাটির মন্দির ও পাঁচমুড়া কুটির শিল্প",
+          "shortDesc": "মল্ল রাজাদের ঐতিহাসিক রাসমঞ্চ, জোর বাংলা মন্দির এবং বিশ্বখ্যাত বাঁকুড়ার ঘোড়ার পোড়ামাটির আঁতুড়ঘর।",
+          "audioText": "বিষ্ণুপুরে আপনাকে আন্তরিক স্বাগতম। মল্ল রাজাদের আমলে সপ্তদশ শতাব্দীতে স্থানীয় লালমাটি পুড়িয়ে তৈরি হয়েছিল এই ঐতিহাসিক মন্দিরগুলি। পাথরের অভাবে শিল্পীরা কাদার ওপর খোদাই করেছিলেন রামায়ণ ও মহাভারতের অমর কাহিনী। কাছেই পাঁচমুড়া গ্রামে কুম্ভকার পরিবারগুলি পুরুষানুক্রমে তৈরি করে চলেছেন বিখ্যাত বাঁকুড়ার ঘোড়া। কারিগরের সাথে সরাসরি দেখা করতে নিচের বাটনে ক্লিক করুন।"
+        },
+        "hi": {
+          "title": "विष्णुपुर टेराकोटा मंदिर और पांचमुरा शिल्प केंद्र",
+          "shortDesc": "17वीं सदी के रासमंच, जोर बांग्ला मंदिर और जीआई-टैग प्राप्त प्रसिद्ध बांकुरा घोड़ों की ऐतिहासिक भूमि।",
+          "audioText": "विष्णुपुर में आपका स्वागत है। 17वीं शताब्दी में मल्ल राजवंश के दौरान स्थानीय जलोढ़ लाल मिट्टी को भट्टी में पकाकर इन अद्वितीय मंदिरों का निर्माण किया गया था। पास ही पांचमुरा गांव में मास्टर कारीगर आज भी पारंपरिक चाक पर विश्वविख्यात बांकुरा घोड़े बनाते हैं। कारीगर से सीधे संपर्क करने के लिए नीचे दिए गए कार्ड का उपयोग करें।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-dilip-kumbhakar",
+        "name": "Dilip Kumbhakar",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "WB-BK-2021-TC-1044",
+        "experience": "34 Years",
+        "village": "Panchmura Village, Bankura",
+        "phone": "919832145678",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹350 / person (2-Hour Live Clay Molding Class)",
+          "product": "₹1,200 (14-inch Authentic Bankura Horse Pair)"
+        },
+        "specialty": "Traditional Terracotta Bankura Horse & Folk Clay Lanterns"
+      }
+    },
+    {
+      "id": "purulia-chhau",
+      "name": "Purulia Charida Chhau Mask Village",
+      "region": "Baghmundi, Purulia District",
+      "state": "West Bengal",
+      "craft": "Chhau Dance Masks",
+      "tag": "UNESCO Intangible Heritage / GI Tag",
+      "lat": 23.1978,
+      "lng": 86.0422,
+      "visitingHours": "09:00 AM – 07:00 PM (Daily)",
+      "bestSeason": "November to February",
+      "heroImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "rarh-craft-route",
+      "historicalContext": "Charida is a vibrant artisan hamlet nestled at the foothills of the Ayodhya Hills. Over 150 artisan families here handcraft the elaborate, dramatic facial masks worn by tribal dancers in Purulia Chhau, portraying gods, goddesses, demons, and forest beasts.",
+      "craftTechnique": "Artisans build masks from 8 to 10 layers of waste paper pasted with flour starch over clay molds, coated with fine alluvial silt (chita mati), dried in the winter sun, burnished with wooden pebbles, and hand-painted with acrylic dyes before adorning with tinsel, beads, and plumes.",
+      "i18n": {
+        "en": {
+          "title": "Charida Chhau Mask Village, Purulia",
+          "shortDesc": "The epicenter of vibrant papier-mâché masks adorned with beads and feathers for the martial Chhau dance.",
+          "audioText": "Step into Charida, where every home is an open-air art gallery. Suspended from thatched verandahs are fierce Mahishasuramardini masks, fearsome demons with flared nostrils, and ornate Shiva headpieces. Notice how lightweight these masks are; dancers wear them while performing backflips and athletic combat movements. In Charida, the Sutradhar artisans welcome travelers to try their hand at paper molding and bead ornamenting."
+        },
+        "bn": {
+          "title": "চড়িদা ছৌ মুখোশ গ্রাম, পুরুলিয়া",
+          "shortDesc": "অযোধ্যা পাহাড়ের পাদদেশে ছৌ নাচের রঙিন ও বীরত্বব্যঞ্জক মুখোশ তৈরির ঐতিহাসিক গ্রাম।",
+          "audioText": "চড়িদা গ্রামে আপনাকে স্বাগত। পুরুলিয়ার ঐতিহ্যবাহী ছৌ নৃত্যের প্রাণ হলো এখানকার কারিগরদের হাতের তৈরি মুখোশ। কাগজ, কাপড় এবং কাদামাটি দিয়ে অত্যন্ত হালকা অথচ মজবুত মুখোশ তৈরি হয়। দুর্গা, মহিষাসুর এবং বনজন্তুর রকমারি মুখোশ দেখে আপনি মুগ্ধ হবেন। স্থানীয় কারিগরের সাথে কথা বলে সরাসরি মুখোশ তৈরি শিখতে পারেন।"
+        },
+        "hi": {
+          "title": "चरिदा छऊ मुखौटा गांव, पुरुलिया",
+          "shortDesc": "अयोध्या पहाड़ियों के बीच स्थित छऊ नृत्य के भव्य और रंगीन मुखौटों का पारंपरिक गांव।",
+          "audioText": "पुरुलिया के चरिदा गांव में आपका स्वागत है। यहां के सूत्रधार कारीगर कागज की लुगदी, कपड़े और चिकनी मिट्टी से छऊ नृत्य के लिए जीवंत मुखौटे तैयार करते हैं। यह मुखौटे युद्ध नृत्य के दौरान पहने जाते हैं। आप कारीगरों की कार्यशाला में भाग लेकर खुद मुखौटा रंगने का अनुभव ले सकते हैं।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-falguni-sutradhar",
+        "name": "Falguni Sutradhar",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "WB-PR-2020-CH-3312",
+        "experience": "28 Years",
+        "village": "Charida Village, Purulia",
+        "phone": "919734567890",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹400 / person (2-Hour Mask Painting & Paper Molding)",
+          "product": "₹1,800 (Handcrafted Mahishasurmardini Wall Mask)"
+        },
+        "specialty": "Authentic Purulia Chhau Warrior & Deity Masks"
+      }
+    },
+    {
+      "id": "pingla-patachitra",
+      "name": "Pingla & Naya Patachitra Hub",
+      "region": "Paschim Medinipur District",
+      "state": "West Bengal",
+      "craft": "Patachitra Natural Scroll Painting",
+      "tag": "GI Tagged Craft / Living Folk Museum",
+      "lat": 22.2592,
+      "lng": 87.6253,
+      "visitingHours": "09:00 AM – 06:00 PM (Daily)",
+      "bestSeason": "September to February",
+      "heroImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1460661419200-184a86f91f27?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "medinipur-folk-art-route",
+      "historicalContext": "Naya village in Pingla is an idyllic settlement of over 250 Chitrakar painters and Patua balladeers. They paint horizontal and vertical scrolls while composing melodious songs called 'Pater Gaan' that narrate social issues, ecology, folklore, and mythological sagas.",
+      "craftTechnique": "Every color used is extracted completely from natural botanical elements: crushed turmeric for yellow, aparajita flowers for blue, teak leaves for reddish-brown, green leaves for vibrant green, and soot from oil lamps for deep black, bonded using bael (wood apple) gum on recycled cloth and handmade paper.",
+      "i18n": {
+        "en": {
+          "title": "Naya Village of Patachitra Artists, Pingla",
+          "shortDesc": "Living museum where painters sing ancient folk ballads while unfurling hand-painted natural dye scrolls.",
+          "audioText": "Welcome to Naya village, where the walls of mud cottages are painted like canvases. The Patuas are a remarkable community of folk minstrels. They extract rich pigments directly from crushed flowers, seeds, and charcoal mixed with wood-apple tree sap. As the artist slowly unrolls the scroll before you, listen to their melodic song that explains each frame. These scrolls tell timeless tales of river floods, forest conservation, and ancient epics."
+        },
+        "bn": {
+          "title": "পিংলা ও নয়া পটচিত্র গ্রাম, পশ্চিম মেদিনীপুর",
+          "shortDesc": "জীবন্ত লোকশিল্পের জাদুঘর, যেখানে পট উন্মোচন করে শিল্পীরা স্বরচিত গান গেয়ে গল্প শোনান।",
+          "audioText": "নয়া গ্রামে আপনাকে স্বাগতম। এখানকার পটুয়ারা কোনো রাসায়নিক রঙ ব্যবহার করেন না। অপরাজিতা ফুল থেকে নীল, কাঁচা হলুদ থেকে হলুদ এবং সেগুন পাতা থেকে তামাটে রঙ তৈরি হয় বেলের আঠা দিয়ে। পটশিল্পী যখন পট খুলে নিজের সুরে গান গান, সেই অভিজ্ঞতা অবিস্মরণীয়। সরাসরি পটশিল্পীদের বাড়ি ঘুরে দেখার জন্য নিচে দেওয়া হোয়াটসঅ্যাপ লিঙ্কে যোগাযোগ করুন।"
+        },
+        "hi": {
+          "title": "पिंगला और नया पटचित्र कला ग्राम, पश्चिम मेदिनीपुर",
+          "shortDesc": "प्राकृतिक रंगों से बने स्क्रॉल और लोक गीतों के माध्यम से कहानी सुनाने वाले पटुआ कलाकारों की बस्ती।",
+          "audioText": "पिंगला के नया गांव में आपका स्वागत है। यहां के कलाकार फूलों, पत्तियों और मिट्टी से प्राकृतिक रंग तैयार कर कपड़ों और कागजों पर पटचित्र बनाते हैं। वे अपनी पेंटिंग को खोलते हुए पारंपरिक 'पटेर गान' सुनाते हैं। आप यहां प्राकृतिक रंग बनाने और स्क्रॉल पेंटिंग सीखने की कार्यशाला में भाग ले सकते हैं।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-anwar-chitrakar",
+        "name": "Anwar Chitrakar",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "WB-PM-2019-PC-4510",
+        "experience": "25 Years",
+        "village": "Naya Village, Pingla",
+        "phone": "919434112233",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹500 / person (2-Hour Natural Dye Preparation & Ballad Session)",
+          "product": "₹2,400 (Framed 3-Foot Tree of Life Natural Scroll)"
+        },
+        "specialty": "Natural Botanical Pigment Scroll Painting & Pater Gaan"
+      }
+    },
+    {
+      "id": "bolpur-kantha",
+      "name": "Bolpur Santiniketan Kantha & Leather Craft",
+      "region": "Birbhum District",
+      "state": "West Bengal",
+      "craft": "Nakshi Kantha & Shantiniketan Embossed Leather",
+      "tag": "Rabindranath Tagore Heritage / GI Tag",
+      "lat": 23.6828,
+      "lng": 87.6896,
+      "visitingHours": "10:00 AM – 06:30 PM (Closed Wednesdays)",
+      "bestSeason": "October to March (Poush Mela)",
+      "heroImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "rarh-craft-route",
+      "historicalContext": "Santiniketan, founded by Nobel Laureate Rabindranath Tagore, catalyzed a renaissance in rural cottage industries through Sriniketan and institutions like Amar Kutir. Women in surrounding villages transform recycled cloth and pure Tussar silk into embroidered poetry.",
+      "craftTechnique": "Kantha utilizes intricate running stitches that quilt multiple layers of fabric together. Motifs represent floral lotuses, tree of life (Kalpavriksha), and village birds, demanding anywhere from 20 days to 6 months of patient needlework per piece.",
+      "i18n": {
+        "en": {
+          "title": "Santiniketan & Amar Kutir Crafts Complex",
+          "shortDesc": "World-famous Nakshi Kantha needlework, vegetable-tanned embossed leather, and Shola pith arts.",
+          "audioText": "Breathe in the calm red-soil atmosphere of Santiniketan. At the artisan cooperatives near Amar Kutir, rural women gather under mango groves to hand-stitch delicate Kantha motifs onto organic silk. Every ripple of the needle represents hours of quiet devotion. Nearby leather craftsmen carve geometric batik motifs onto vegetable-tanned leather bags. You can sit with the craftswomen and learn the traditional running stitch directly."
+        },
+        "bn": {
+          "title": "বোলপুর শান্তিনিকেতন কাঁথা ও চামড়াশিল্প",
+          "shortDesc": "অমর কুটির ও রবীন্দ্রনাথের শান্তিনিকেতনের ঐতিহ্যবাহী নকশি কাঁথা এবং বাটিক চামড়ার হস্তশিল্প।",
+          "audioText": "রাঙামাটির দেশ শান্তিনিকেতনে আপনাকে স্বাগতম। পল্লী পুনর্গঠনের অংশ হিসেবে রবীন্দ্রনাথ শান্তিনিকেতনে কুটির শিল্পের যে বিস্তার ঘটিয়েছিলেন, অমর কুটির তারই এক উজ্জ্বল নিদর্শন। গ্রামীণ মহিলারা সুঁই-সুতো দিয়ে তৈরি করেন অপূর্ব নকশি কাঁথা। এই সূক্ষ্ম কাজ ও বাটিক চামড়ার ব্যাগ দেখতে এবং সরাসরি কারিগরদের পাশে বসে শিখতে যোগাযোগ করুন।"
+        },
+        "hi": {
+          "title": "बोलपुर शांतिनिकेतन कांथा और चमड़ा शिल्प",
+          "shortDesc": "रवींद्रनाथ टैगोर की तपोभूमि में विकसित प्रसिद्ध नक़्शी कांथा कढ़ाई और उभरे हुए चमड़े के हस्तशिल्प।",
+          "audioText": "शांतिनिकेतन में आपका स्वागत है। यहां अमर कुटीर के आसपास के गांवों में महिलाएं सूती और टसर सिल्क पर हाथ की बारीक सुई-धागे से कांथा कढ़ाई करती हैं। यह परंपरा सैकड़ों वर्षों पुरानी है। आप स्थानीय महिला स्वयं सहायता समूहों से सीधे मिलकर कांथा का अनुभव प्राप्त कर सकते हैं।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-malati-murmu",
+        "name": "Malati Murmu",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "WB-BM-2023-KN-5521",
+        "experience": "22 Years",
+        "village": "Ballavpur Village near Amar Kutir, Bolpur",
+        "phone": "919800776655",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹300 / person (2-Hour Kantha Stitch Masterclass)",
+          "product": "₹3,200 (Hand-Embroidered Pure Tussar Silk Dupatta)"
+        },
+        "specialty": "Nakshi Kantha Embroidery on Handloom Tussar Silk"
+      }
+    },
+    {
+      "id": "madhubani-mithila",
+      "name": "Madhubani Jitwarpur Living Art Hub",
+      "region": "Madhubani District",
+      "state": "Bihar",
+      "craft": "Madhubani (Mithila) Painting",
+      "tag": "GI Tagged Craft / Global Icon",
+      "lat": 26.3541,
+      "lng": 86.0717,
+      "visitingHours": "08:30 AM – 06:30 PM (Daily)",
+      "bestSeason": "October to March",
+      "heroImage": "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "bihar-living-art-trail",
+      "historicalContext": "Jitwarpur and Ranti are the heartland of Mithila painting, rooted in the ancient wedding of Sita and Rama in Mithila. Practiced predominantly by women on mud walls of the Kohbar (nuptial chamber), the art transitioned to handmade paper in the late 1960s after a severe drought.",
+      "craftTechnique": "Artisans sketch directly with bamboo twigs, matchsticks, and fountain pen nibs using double lines filled with fine cross-hatching (Kachni) or flat vibrant colors (Bharni). Pigments are derived from cow dung wash, lamp soot, indigo, marigold blossoms, and kusum flowers.",
+      "i18n": {
+        "en": {
+          "title": "Jitwarpur & Ranti Mithila Painting Village",
+          "shortDesc": "Global epicenter of Madhubani painting created with natural vegetable dyes, twigs, and mythological storytelling.",
+          "audioText": "Welcome to Jitwarpur, the holy soil of Mithila folk painting. As you step along the village lanes, every courtyard greets you with painted walls showing fish swimming between lotus leaves, sun gods radiating warmth, and the sacred Kohbar nuptial canopy. Three distinct styles thrive here: the detailed line work of Kachni, the bold vivid colors of Bharni, and the cow-dung washed Godna tattoo art. Connect directly with the village artists to experience authentic painting sessions."
+        },
+        "bn": {
+          "title": "জিতওয়ারপুর মধুবনী মিথিলা চিত্রকলা গ্রাম, বিহার",
+          "shortDesc": "বিশ্বখ্যাত মধুবনী চিত্রকলার কেন্দ্রস্থল, যেখানে মাটির দেয়ালে ও হাতে তৈরি কাগজে প্রাকৃতিক রঙে ছবি আঁকা হয়।",
+          "audioText": "মধুবনীর জিতওয়ারপুরে আপনাকে স্বাগত। রাম ও সীতার বিয়ের সময় থেকে মিথিলার মহিলারা মাটির দেওয়ালে এই পবিত্র চিত্র আঁকতেন। বাঁশের কাঠি এবং প্রাকৃতিক ফুল ও গাছের রসে তুলির আঁচড়ে ফুটিয়ে তোলা হয় প্রকৃতির রূপ। এখানে এসে শিল্পীদের উঠোনে বসে ছবি আঁকা শেখার সুযোগ একদম হাতছাড়া করবেন না।"
+        },
+        "hi": {
+          "title": "जितवारपुर मधुबनी मिथिला चित्रकला गांव, बिहार",
+          "shortDesc": "मधुबनी पेंटिंग का वैश्विक केंद्र, जहां बांस की तीलियों और प्राकृतिक रंगों से दीवारों और कागजों पर पौराणिक कथाएं उकेरी जाती हैं।",
+          "audioText": "मधुबनी के जितवारपुर गांव में आपका स्वागत है। यहां की हर गली और दीवार पर आपको सीता-राम प्रसंग, कोहबर, सूर्य और मछलियों के मांगलिक प्रतीक देखने को मिलेंगे। कचनी, भरनी और गोदना शैलियों के राष्ट्रीय पुरस्कार विजेता कलाकार यहां निवास करते हैं। बिना किसी बिचौलिए के सीधे कलाकारों से पेंटिंग खरीदने या सीखने के लिए नीचे संपर्क करें।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-bimla-devi",
+        "name": "Bimla Devi",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "BH-MD-2020-MB-9011",
+        "experience": "31 Years",
+        "village": "Jitwarpur Village, Madhubani",
+        "phone": "919431445566",
+        "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹450 / person (2-Hour Bamboo Twig & Natural Pigment Class)",
+          "product": "₹2,800 (Framed 24x18 Traditional Kohbar Marriage Painting)"
+        },
+        "specialty": "Traditional Kachni & Bharni Style Madhubani Paintings"
+      }
+    },
+    {
+      "id": "gaya-patharkatti",
+      "name": "Patharkatti Black Granite Stone Craft Hub",
+      "region": "Gaya District",
+      "state": "Bihar",
+      "craft": "Stone Carving & Mauryan Sculpture",
+      "tag": "Ancient Mauryan Heritage",
+      "lat": 24.8174,
+      "lng": 85.0037,
+      "visitingHours": "08:00 AM – 05:30 PM (Daily)",
+      "bestSeason": "October to March",
+      "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1590076212472-881c0c169213?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "bihar-stone-craft-trail",
+      "historicalContext": "Patharkatti village, located near Gaya, has been an epicenter of stone carving since the Mauryan emperor Ashoka's era and Queen Ahilyabai Holkar's reconstruction of the Vishnupad Temple in 1787. Master sculptors from Rajasthan originally settled here and fused local black stone with sacred Buddhist and Hindu iconography.",
+      "craftTechnique": "Artisans chisel dense blue-black Kasauti stone and local granite using iron chisels (cheni) and heavy wooden mallets. Intricate Buddha figurines, mortars (kundi), and architectural columns are polished using emery stones and river water to a glossy sheen.",
+      "i18n": {
+        "en": {
+          "title": "Patharkatti Stone Carving Village & Bodh Gaya",
+          "shortDesc": "Centuries-old stone chisel traditions carving black granite into Buddha idols, temple panels, and sacred artifacts.",
+          "audioText": "Listen to the rhythmic clinking of chisels in Patharkatti. For over two centuries, this village of master sculptors has transformed solid black granite into meditative Buddha images and temple pillars. When Queen Ahilyabai Holkar rebuilt the famous Vishnupad temple in Gaya, she brought master stone carvers here. Today, their descendants maintain the ancient proportions and meditative expressions in granite stone."
+        },
+        "bn": {
+          "title": "পাথরকাট্টি কালো গ্রানাইট পাথর খোদাই গ্রাম, গয়া",
+          "shortDesc": "মৌর্য ও অহল্যাবাই হোলকারের সময় থেকে কালো গ্রানাইট পাথরে বুদ্ধ ও দেবদেবীর অপূর্ব ভাস্কর্য তৈরির কেন্দ্র।",
+          "audioText": "গয়ার কাছে পাথরকাট্টি গ্রামে হাতুড়ি ও বাটালের মধুর শব্দ সারাদিন অনুরণিত হয়। এখানকার কারিগরেরা কালো কষ্টিপাথর ও গ্রানাইটে ধ্যানমগ্ন বুদ্ধের প্রতিমা ও মন্দিরের অলংকরণ তৈরি করেন। রানী অহল্যাবাই হোলকারের আমল থেকে এই শিল্পীরা বংশপরম্পরায় কাজ করে চলেছেন। সরাসরি পাথরের কাজ দেখতে এখানে অবশ্যই আসুন।"
+        },
+        "hi": {
+          "title": "पत्थरकट्टी काला ग्रेनाइट पत्थर शिल्प ग्राम, गया",
+          "shortDesc": "मौर्यकालीन परंपरा से जुड़ा गांव जहां काले पत्थर और ग्रेनाइट को तराश कर मनमोहक बुद्ध प्रतिमाएं बनाई जाती हैं।",
+          "audioText": "गया के निकट पत्थरकट्टी गांव में आपका स्वागत है। यहां के कारीगर काले कसौटी पत्थर को तराश कर जीवंत बुद्ध और देवी-देवताओं की प्रतिमाएं गढ़ते हैं। महारानी अहिल्याबाई होल्कर ने विष्णुपद मंदिर के जीर्णोद्धार के समय इन शिल्पकारों को यहां बसाया था। आज भी यह कारीगर बिना आधुनिक मशीनों के केवल छेनी और हथौड़ी से पत्थर में जान फूंक देते हैं।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-ramswaroop-gaur",
+        "name": "Ramswaroop Gaur",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "BH-GY-2019-SC-5678",
+        "experience": "38 Years",
+        "village": "Patharkatti Village, Gaya",
+        "phone": "919934112288",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹500 / person (2-Hour Chisel Carving on Soft Stone)",
+          "product": "₹2,600 (Authentic Black Stone Dhyana Mudra Buddha)"
+        },
+        "specialty": "Traditional Black Granite Sculptures & Kasauti Stone Idols"
+      }
+    },
+    {
+      "id": "hazaribagh-sohrai",
+      "name": "Hazaribagh Sohrai & Khovar Murals",
+      "region": "Hazaribagh District",
+      "state": "Jharkhand",
+      "craft": "Sohrai & Khovar Indigenous Mud Wall Painting",
+      "tag": "UNESCO Recognized / GI Tagged",
+      "lat": 23.9925,
+      "lng": 85.3637,
+      "visitingHours": "09:00 AM – 05:00 PM (Daily)",
+      "bestSeason": "October to February (Harvest Season)",
+      "heroImage": "https://images.unsplash.com/photo-1544967082-d9d25d867d66?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1544967082-d9d25d867d66?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "jharkhand-tribal-circuit",
+      "historicalContext": "Sohrai and Khovar are ancient matriarchal mural traditions practiced by Santhal, Munda, Oraon, and Birhor indigenous women. Sohrai honors cattle and harvest fertility during Diwali, while Khovar decorates bridal chambers with symbols of fertility, forest animals, and flora.",
+      "craftTechnique": "Women apply a thick layer of black manganese-rich mud, followed by a coat of white kaolin clay (dudhi matti). While the white coat is still wet, they scrape patterns with broken combs, date-palm toothbrushes (datun), or fingers to reveal the dark base beneath (sgraffito technique).",
+      "i18n": {
+        "en": {
+          "title": "Hazaribagh Sohrai & Khovar Tribal Village Trail",
+          "shortDesc": "Prehistoric-inspired tribal wall murals etched with combs using natural earth pigments celebrating nature and harvest.",
+          "audioText": "Welcome to the tribal soul of Jharkhand. In villages like Bhelwara and Jorakath around Hazaribagh, the mud walls of traditional houses are etched with wild peacocks, horned bulls, and sacred creepers. Using white chalk clay and dark earth mud, tribal women scrape motifs using broken combs in a technique echoing the prehistoric rock art of Isco caves. Experience homestays and community painting with the village elders."
+        },
+        "bn": {
+          "title": "হাজারিবাগ সোহরাই ও খোভার আদিবাসী দেওয়াল চিত্র, ঝাড়খণ্ড",
+          "shortDesc": "ইউনেস্কো স্বীকৃত জিআই ট্যাগযুক্ত আদিবাসী মাটির দেওয়াল চিত্রশিল্প, যা চিরুনি ও প্রাকৃতিক মাটি দিয়ে আঁকা হয়।",
+          "audioText": "ঝাড়খণ্ডের আদিবাসী শিল্পধারা সোহরাই ও খোভারে আপনাকে স্বাগতম। ফসল কাটার উৎসবে এবং বিবাহের সময় মহিলারা মাটির দেওয়ালে সাদা ও কালো মাটির প্রলেপ দিয়ে চিরুনির সাহায্যে ময়ূর, ষাঁড় ও বনের লতাপাতার ছবি ফুটিয়ে তোলেন। প্রাচীন গুহাচিত্রের সাথে এই শিল্পের গভীর মিল রয়েছে। সরাসরি আদিবাসী বোনেদের সাথে দেখা করতে নিচের বাটনে চাপ দিন।"
+        },
+        "hi": {
+          "title": "हजारीबाग सोहराय और खोवर आदिवासी भित्ति चित्र, झारखंड",
+          "shortDesc": "यूनेस्को द्वारा मान्यता प्राप्त मिट्टी की दीवारों पर प्राकृतिक रंगों और कंघी से उकेरी जाने वाली प्राचीन जनजातीय कला।",
+          "audioText": "झारखंड के हजारीबाग में सोहराय और खोवर कला में आपका स्वागत है। यहां संथाल और उरांव जनजातीय महिलाएं दिवाली के समय गाय-बैल और फसल के सम्मान में सोहराय बनाती हैं, तथा विवाह के समय खोवर। सफेद दूधिया मिट्टी और काली चिकनी मिट्टी की परतों को टूटी कंघी और अंगुलियों से खुरच कर मोर, हिरण और कमल के सुंदर चित्र बनाए जाते हैं।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-parvati-devi",
+        "name": "Parvati Devi",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "JH-HZ-2022-SK-9876",
+        "experience": "26 Years",
+        "village": "Jorakath Village, Hazaribagh",
+        "phone": "919431332211",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹400 / person (2-Hour Natural Earth Mud Comb-Etching Workshop)",
+          "product": "₹1,600 (Framed Sohrai Harvest Mural on Handmade Rice Paper)"
+        },
+        "specialty": "Indigenous Sohrai Harvest & Khovar Nuptial Murals"
+      }
+    },
+    {
+      "id": "saraikela-dhokra",
+      "name": "Saraikela Dhokra & Tribal Metal Guild",
+      "region": "Saraikela-Kharsawan District",
+      "state": "Jharkhand",
+      "craft": "Dhokra Lost-Wax Bell Metal Casting",
+      "tag": "4000-Year Harappan Heritage",
+      "lat": 22.7001,
+      "lng": 85.9304,
+      "visitingHours": "09:00 AM – 06:00 PM (Daily)",
+      "bestSeason": "October to March",
+      "heroImage": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "jharkhand-tribal-circuit",
+      "historicalContext": "Dhokra casting is one of the oldest known continuous metal casting traditions in human history, dating back over 4,000 years to the Harappan Dancing Girl of Mohenjo-Daro. In Jharkhand's Saraikela and Ghatshila belts, tribal metalsmiths create rustic brass and bell-metal idols, measuring vessels, and ritual lamps.",
+      "craftTechnique": "Artisans shape a core from clay, apply strands of pure beeswax to model intricate details, envelope the wax with outer clay molds, and pour molten scrap brass into the kiln. The heat melts the wax away (cire perdue), replacing it with glowing liquid metal. Every piece is unique as the clay mold must be broken to reveal the sculpture.",
+      "i18n": {
+        "en": {
+          "title": "Saraikela Dhokra Lost-Wax Foundry & Royal Chhau",
+          "shortDesc": "Ancient 4,000-year-old lost-wax bell metal casting producing rustic brass figurines, tribal dancers, and lamps.",
+          "audioText": "Welcome to Saraikela, where metallurgy meets ancient tribal mysticism. The Malhor metal artisans sit beside smoking pit kilns. Each figurine—whether a tribal horn-blower, an elephant with ornate jali bells, or a forest deity—is modeled strand-by-strand using beeswax before molten brass is poured. Because the mold breaks with every pour, no two Dhokra pieces anywhere on Earth are ever identical."
+        },
+        "bn": {
+          "title": "সেরাইকেলা ঢোকরা ধাতু শিল্প ও রাজকীয় ছৌ কেন্দ্র, ঝাড়খণ্ড",
+          "shortDesc": "৪০০০ বছরের প্রাচীন মোম গলিয়ে ধাতু ঢালাইয়ের ঐতিহ্যবাহী ঢোকরা শিল্প এবং রাজকীয় সেরাইকেলা ছৌ।",
+          "audioText": "সেরাইকেলায় আপনাকে স্বাগতম। প্রাচীন হরপ্পা সভ্যতার হারিয়ে যাওয়া মোম পদ্ধতি বা লস্ট-ওয়াক্স কৌশলে এখানকার শিল্পীরা পিতল ও কাঁসার মূর্তি তৈরি করেন। মৌমাছির মোমের সুতো দিয়ে নিখুঁত নকশা করে মাটির ছাঁচে গলিত ধাতু ঢেলে তৈরি হয় অনন্য হস্তশিল্প। কারিগরের সাথে সরাসরি যোগাযোগ করে এই দুর্লভ শিল্প সংগ্রহ করুন।"
+        },
+        "hi": {
+          "title": "सरायकेला ढोकरा धातु शिल्प व छऊ केंद्र, झारखंड",
+          "shortDesc": "4000 वर्ष पुरानी लॉस्ट-वैक्स पद्धति से पीतल और कांसे की मूर्तियों की ढलाई करने वाले आदिवासी कारीगरों का गढ़।",
+          "audioText": "सरायकेला में आपका स्वागत है। यहां के आदिवासी शिल्पकार सिंधु घाटी सभ्यता के समय की ढोकरा धातु ढलाई तकनीक का आज भी उपयोग करते हैं। मधुमक्खी के मोम से पहले बारीक आकृति तैयार की जाती है और फिर मिट्टी के सांचे में पिघला हुआ पीतल डाला जाता है। हर एक ढोकरा कलाकृति बिल्कुल अनूठी और अद्वितीय होती है।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-biren-mahato",
+        "name": "Biren Mahato",
+        "badge": "Master Artisan (Pehchan Verified)",
+        "pehchanId": "JH-SR-2020-DK-5432",
+        "experience": "29 Years",
+        "village": "Saraikela Royal Artisan Enclave",
+        "phone": "919835667788",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹500 / person (2-Hour Beeswax Modeling & Foundry Orientation)",
+          "product": "₹1,500 (Authentic Hand-cast Brass Tribal Musician Figurine)"
+        },
+        "specialty": "Ancient Lost-Wax Cire Perdue Dhokra Metal Artifacts"
+      }
+    },
+    {
+      "id": "cluster-sub-1",
+      "name": "Bikna Dokra Metal Artisans Colony",
+      "region": "Bikna, Bankura District",
+      "state": "West Bengal",
+      "craft": "Dokra Lost-Wax Bell Metal",
+      "tag": "Community Verified",
+      "lat": 23.2384,
+      "lng": 87.0712,
+      "visitingHours": "09:00 AM – 06:00 PM",
+      "bestSeason": "Year Round",
+      "heroImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1000&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+      ],
+      "route": "community-discoveries",
+      "historicalContext": "A settlement of traditional Dokra brass founders right on the outskirts of Bankura town. They demonstrate the Harappan cire-perdue technique.",
+      "craftTechnique": "Preserved regional handicraft practiced by local indigenous masters.",
+      "i18n": {
+        "en": {
+          "title": "Bikna Dokra Metal Artisans Colony",
+          "shortDesc": "Dokra Lost-Wax Bell Metal cluster in Bikna, Bankura District",
+          "audioText": "Welcome to Bikna Dokra Metal Artisans Colony. This is a newly verified craft center producing authentic Dokra Lost-Wax Bell Metal."
+        },
+        "bn": {
+          "title": "Bikna Dokra Metal Artisans Colony",
+          "shortDesc": "Dokra Lost-Wax Bell Metal - Bikna, Bankura District",
+          "audioText": "Bikna Dokra Metal Artisans Colony-এ আপনাকে স্বাগতম। এটি একটি নতুন অনুমোদিত ঐতিহ্যবাহী কুটির শিল্প কেন্দ্র।"
+        },
+        "hi": {
+          "title": "Bikna Dokra Metal Artisans Colony",
+          "shortDesc": "Dokra Lost-Wax Bell Metal - Bikna, Bankura District",
+          "audioText": "Bikna Dokra Metal Artisans Colony में आपका स्वागत है। यह एक नव-सत्यापित पारंपरिक शिल्प केंद्र है।"
+        }
+      },
+      "artisan": {
+        "id": "artisan-sub-1",
+        "name": "Subir Karmakar",
+        "badge": "Community Verified Artisan",
+        "pehchanId": "PEHCHAN-PENDING",
+        "experience": "Local Master",
+        "village": "Bikna, Bankura District",
+        "phone": "919477001122",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+        "pricing": {
+          "workshop": "₹350 / person (Live Workshop Experience)",
+          "product": "Direct Artisan Fair Price"
+        },
+        "specialty": "Dokra Lost-Wax Bell Metal"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "rarh-craft-route",
+      "name": "The Rarh Craft & Temple Route",
+      "states": [
+        "West Bengal"
+      ],
+      "description": "Terracotta architecture, Dokra lost-wax metal casting in Bikna, Baluchari silk weaving, and martial Chhau mask makers.",
+      "distance": "145 km",
+      "duration": "2 Days / 1 Night",
+      "clusters": [
+        "bishnupur-terracotta",
+        "bolpur-kantha",
+        "purulia-chhau"
+      ],
+      "color": "#d97706"
+    },
+    {
+      "id": "medinipur-folk-art-route",
+      "name": "The Medinipur Folk Art Route",
+      "states": [
+        "West Bengal"
+      ],
+      "description": "Living museum of Patachitra scroll painters, rural folk ballads (Pater Gaan), and natural-dye extraction workshops.",
+      "distance": "90 km",
+      "duration": "1 Full Day",
+      "clusters": [
+        "pingla-patachitra"
+      ],
+      "color": "#059669"
+    },
+    {
+      "id": "bihar-stone-craft-trail",
+      "name": "Bihar Stone Craft & Heritage Trail",
+      "states": [
+        "Bihar"
+      ],
+      "description": "From ancient Mauryan black-stone carvers in Patharkatti to Bodh Gaya Mahabodhi temple and Vishnupad shrines.",
+      "distance": "120 km",
+      "duration": "2 Days",
+      "clusters": [
+        "gaya-patharkatti"
+      ],
+      "color": "#dc2626"
+    },
+    {
+      "id": "bihar-living-art-trail",
+      "name": "Mithila Living Art & Heritage Circuit",
+      "states": [
+        "Bihar"
+      ],
+      "description": "Heart of Mithila folk art in Jitwarpur and Ranti, Darbhanga Raj palaces, and traditional handloom Bawan Buti weaving.",
+      "distance": "160 km",
+      "duration": "2 Days",
+      "clusters": [
+        "madhubani-mithila"
+      ],
+      "color": "#7c3aed"
+    },
+    {
+      "id": "jharkhand-tribal-circuit",
+      "name": "The Grand Tribal Heritage & Craft Circuit",
+      "states": [
+        "Jharkhand"
+      ],
+      "description": "UNESCO-recognized Sohrai & Khovar mud murals of Hazaribagh, 4000-year-old Dhokra bell-metal casting, and Tussar silk weaving.",
+      "distance": "190 km",
+      "duration": "3 Days",
+      "clusters": [
+        "hazaribagh-sohrai",
+        "saraikela-dhokra"
+      ],
+      "color": "#0284c7"
+    }
+  ],
+  "defaultPendingPlans": [
+    {
+      "id": "plan-1",
+      "title": "Bishnupur & Purulia Cultural Expedition",
+      "routeId": "rarh-craft-route",
+      "stops": [
+        "Panchmura Terracotta Hub",
+        "Charida Chhau Mask Village",
+        "Rasmancha & Jor Bangla"
+      ],
+      "scheduledDate": "2026-11-20",
+      "travelers": 2,
+      "bookedWorkshops": [
+        "Dilip Kumbhakar (Clay Molding)",
+        "Falguni Sutradhar (Mask Painting)"
+      ],
+      "status": "Upcoming Active Plan",
+      "notes": "Pre-contacted master artisans via direct WhatsApp. Pickup booked from Bishnupur station."
+    }
+  ],
+  "defaultMemories": [
+    {
+      "id": "mem-1",
+      "placeId": "bishnupur-terracotta",
+      "placeName": "Panchmura Terracotta Village, Bishnupur",
+      "userName": "Ananya Sengupta",
+      "travelDate": "2026-10-18",
+      "photo": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80",
+      "caption": "Molded my very first Bankura clay horse under Dilip-da's patient guidance. The kilns smelled of sweet burnt loam and river clay!",
+      "isPublic": true,
+      "status": "verified",
+      "verifiedBy": "Sanskriti Admin Team",
+      "submittedHoursAgo": 72
+    },
+    {
+      "id": "mem-2",
+      "placeId": "madhubani-mithila",
+      "placeName": "Jitwarpur Artisan Hamlet, Madhubani",
+      "userName": "Rohit Verma",
+      "travelDate": "2026-10-25",
+      "photo": "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=800&q=80",
+      "caption": "Witnessed Bimla Devi mix fresh marigold extract with neem gum for natural golden pigment. Truly a living heritage.",
+      "isPublic": true,
+      "status": "verified",
+      "verifiedBy": "Sanskriti Admin Team",
+      "submittedHoursAgo": 54
+    },
+    {
+      "id": "mem-3",
+      "placeId": "purulia-chhau",
+      "placeName": "Charida Chhau Mask Village",
+      "userName": "Sourav Mukherjee",
+      "travelDate": "2026-11-02",
+      "photo": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+      "caption": "The paper layering technique used here makes 3-foot masks unbelievably light. Master Falguni-babu gifted us a peacock plume.",
+      "isPublic": true,
+      "status": "verified",
+      "submittedHoursAgo": 12,
+      "slaRemainingHours": 36,
+      "verifiedBy": "Sanskriti Admin Team",
+      "verifiedAt": "2026-11-10T07:19:38.459Z"
+    }
+  ],
+  "defaultSubmissions": [
+    {
+      "id": "sub-1",
+      "name": "Bikna Dokra Metal Artisans Colony",
+      "region": "Bikna, Bankura District",
+      "state": "West Bengal",
+      "craft": "Dokra Lost-Wax Bell Metal",
+      "artisanName": "Subir Karmakar",
+      "artisanPhone": "919477001122",
+      "submittedBy": "Debjani Roy",
+      "description": "A settlement of traditional Dokra brass founders right on the outskirts of Bankura town. They demonstrate the Harappan cire-perdue technique.",
+      "status": "verified",
+      "submittedHoursAgo": 8,
+      "slaRemainingHours": 28,
+      "lat": 23.2384,
+      "lng": 87.0712,
+      "verifiedBy": "Sanskriti Cultural Committee"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sanskriti-heritage-craft-trails",
+  "version": "1.0.0",
+  "description": "Sanskriti - Self-guided heritage audio trails paired with direct zero-commission verified artisan directory (West Bengal, Bihar, Jharkhand)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sanskriti",
+    "bengal-crafts",
+    "bihar-heritage",
+    "jharkhand-tribal-art",
+    "terracotta",
+    "madhubani",
+    "sohrai",
+    "leaflet",
+    "audio-trails"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "MIT"
+}

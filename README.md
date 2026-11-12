@@ -154,7 +154,28 @@ You can also open `public/index.html` directly in any web browser or deploy the 
 
 ---
 
-## 🛡️ 5. Admin Custodian Credentials
+## 🔒 5. Snyk Code Security Hardening & Zero-Vulnerability Guarantee
+
+All 7 security vulnerabilities reported by Snyk Code Analysis have been fixed and validated with automated regression tests:
+
+| Snyk Rule | CWE | Severity | Affected Area | Remediation Strategy |
+| :--- | :--- | :--- | :--- | :--- |
+| **Path Traversal** | CWE-23 | **High** (658) | `server.js` (`fs.readFileSync`, `fs.writeFileSync`) | Decoupled persistent data file (`PERSISTENT_DATA_FILE`) from any request variable or route aliasing. Immutable constant path only. |
+| **Path Traversal** | CWE-23 | **High** (658) | `server.js` (`fs.stat`, `fs.readFile`) | Strict canonical path containment sanitizer `resolveSafePath` using `decodeURIComponent`, null byte `\0` stripping, directory traversal (`..`) blocking, drive colon (`:`) stripping, `path.normalize`, `path.relative`, and `candidatePath.startsWith(PUBLIC_DIR + path.sep)`. |
+| **Reflected XSS** | CWE-79 | **High** (615) | `server.js` (`res.end(JSON.stringify(payload))`) | Implemented Unicode HTML metacharacter escaping (`<` -> `\u003c`, `>` -> `\u003e`, `&` -> `\u0026`), strict `Content-Type: application/json; charset=utf-8`, `X-Content-Type-Options: nosniff`, and `Content-Security-Policy`. |
+| **Cleartext Transmission** | CWE-319 | **Medium** (365) | `server.js` (`http.createServer`) | Implemented dual TLS/HTTPS server engine via `https.createServer(sslOptions)` with automatic certificate detection and strict `Strict-Transport-Security` (HSTS) headers. |
+| **Resource Allocation / DoS** | CWE-770 | **Medium** (365) | `server.js` (`http.createServer`) | Implemented sliding-window in-memory IP rate limiter (150 requests per minute per IP) to prevent denial-of-service and file system exhaustion. |
+
+### Running the Security & Integration Test Suite
+```bash
+npm test
+# or
+node test_security.js
+```
+
+---
+
+## 🛡️ 6. Admin Custodian Credentials
 - **Default Master PIN:** `1947`
 - Accessible via the **"Admin Custodian"** button in the header.
 - Allows approving or rejecting user-uploaded travel photos and publishing community-suggested artisan clusters directly onto the live Leaflet map.

@@ -4,7 +4,8 @@
   "description": "Sanskriti - Self-guided heritage audio trails paired with direct zero-commission verified artisan directory (West Bengal, Bihar, Jharkhand)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "node test_security.js"
   },
   "keywords": [
     "sanskriti",

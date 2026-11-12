@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": "cluster-sub-1",
+      "id": "cluster-bikna-dokra",
       "name": "Bikna Dokra Metal Artisans Colony",
       "region": "Bikna, Bankura District",
       "state": "West Bengal",
@@ -453,7 +453,7 @@
         }
       },
       "artisan": {
-        "id": "artisan-sub-1",
+        "id": "artisan-bikna-dokra",
         "name": "Subir Karmakar",
         "badge": "Community Verified Artisan",
         "pehchanId": "PEHCHAN-PENDING",

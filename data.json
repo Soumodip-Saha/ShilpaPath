@@ -433,39 +433,39 @@
         "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
       ],
       "route": "community-discoveries",
-      "historicalContext": "A settlement of traditional Dokra brass founders right on the outskirts of Bankura town. They demonstrate the Harappan cire-perdue technique.",
-      "craftTechnique": "Preserved regional handicraft practiced by local indigenous masters.",
+      "historicalContext": "A celebrated settlement of traditional Dokra brass founders right on the outskirts of Bankura town. They preserve the Harappan cire-perdue (lost-wax) metallurgy, molding bees-wax filaments over clay cores before casting bell-metal artifacts.",
+      "craftTechnique": "Non-ferrous metal casting using lost-wax technique, clay core sculpting, beeswax thread winding, and open-pit charcoal firing.",
       "i18n": {
         "en": {
           "title": "Bikna Dokra Metal Artisans Colony",
-          "shortDesc": "Dokra Lost-Wax Bell Metal cluster in Bikna, Bankura District",
-          "audioText": "Welcome to Bikna Dokra Metal Artisans Colony. This is a newly verified craft center producing authentic Dokra Lost-Wax Bell Metal."
+          "shortDesc": "Ancient 4,000-year-old lost-wax bell metal casting cluster in Bankura",
+          "audioText": "Welcome to Bikna, the renowned Dokra artisan colony on the outskirts of Bankura. Here, traditional Dhokra Damar metalsmiths practice the ancient 4,000-year-old lost-wax casting technique tracing back to Mohenjo-daro. Watch the artisans mold fine beeswax threads over clay cores, encase them in river silt kilns, and pour molten bell-metal to create majestic owls, elephants, and tribal lamps."
         },
         "bn": {
-          "title": "Bikna Dokra Metal Artisans Colony",
-          "shortDesc": "Dokra Lost-Wax Bell Metal - Bikna, Bankura District",
-          "audioText": "Bikna Dokra Metal Artisans Colony-এ আপনাকে স্বাগতম। এটি একটি নতুন অনুমোদিত ঐতিহ্যবাহী কুটির শিল্প কেন্দ্র।"
+          "title": "বিকনা ডোকরা শিল্পী কলোনি",
+          "shortDesc": "বাঁকুড়ার ঐতিহ্যবাহী ৪,০০০ বছরের প্রাচীন লস্ট-ওয়াক্স পিতল ও কাঁসা ঢালাই শিল্প",
+          "audioText": "বাঁকুড়া শহরের উপকণ্ঠে বিকনা ডোকরা শিল্পী কলোনিতে আপনাকে স্বাগতম। প্রাচীন হরপ্পা সভ্যতার সমসাময়িক চার হাজার বছরের পুরনো 'লস্ট ওয়াক্স' পদ্ধতিতে এখানকার কারিগরেরা পিতল ও কাঁসা গলিয়ে তৈরি করেন অপূর্ব পেঁচা, হাতি, ঘোড়া ও লোকদেবতার মূর্তি। কাদামাটির ওপর মোমের সুতো পেঁচিয়ে ছাঁচ তৈরি এবং কাঠের আগুনে গলিত ধাতু ঢালার এই জীবন্ত দৃশ্য ভারতীয় ধাতুশিল্পের এক অনুপম ঐতিহ্য।"
         },
         "hi": {
-          "title": "Bikna Dokra Metal Artisans Colony",
-          "shortDesc": "Dokra Lost-Wax Bell Metal - Bikna, Bankura District",
-          "audioText": "Bikna Dokra Metal Artisans Colony में आपका स्वागत है। यह एक नव-सत्यापित पारंपरिक शिल्प केंद्र है।"
+          "title": "बिकना डोकरा शिल्पकला कॉलोनी",
+          "shortDesc": "बांकुड़ा का 4,000 वर्ष पुराना पारंपरिक लॉस्ट-वैक्स कांस्य धातु ढलाई केंद्र",
+          "audioText": "बांकुड़ा के पास स्थित बिकना डोकरा शिल्पकला गांव में आपका स्वागत है। यहां के आदिवासी शिल्पकार चार हजार साल पुरानी सिंधु घाटी सभ्यता की 'लॉस्ट-वैक्स' तकनीक से पीतल और कांस्य की धातु ढलाई करते हैं। मिट्टी के आधार पर मोम के बारीक धागों से आकृति उकेरना और फिर भट्टी में तपाकर मनमोहक उल्लू, हाथी और देवी-देवताओं की मूर्तियां गढ़ना भारतीय हस्तशिल्प का एक अद्भुत जीवंत उदाहरण है।"
         }
       },
       "artisan": {
         "id": "artisan-bikna-dokra",
         "name": "Subir Karmakar",
-        "badge": "Community Verified Artisan",
-        "pehchanId": "PEHCHAN-PENDING",
-        "experience": "Local Master",
+        "badge": "State Awardee Master Artisan",
+        "pehchanId": "WB-BK-2022-DK-6109",
+        "experience": "28 Years Master Founder",
         "village": "Bikna, Bankura District",
         "phone": "919477001122",
         "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
         "pricing": {
-          "workshop": "₹350 / person (Live Workshop Experience)",
-          "product": "Direct Artisan Fair Price"
+          "workshop": "₹350 / person (Live Lost-Wax Mold Making Workshop)",
+          "product": "₹1,200 (Handcrafted Dokra Royal Elephant / Owl)"
         },
-        "specialty": "Dokra Lost-Wax Bell Metal"
+        "specialty": "Dokra Lost-Wax Bell Metal Sculptures & Ritual Items"
       }
     }
   ],
@@ -575,7 +575,7 @@
       "caption": "Molded my very first Bankura clay horse under Dilip-da's patient guidance. The kilns smelled of sweet burnt loam and river clay!",
       "isPublic": true,
       "status": "verified",
-      "verifiedBy": "Sanskriti Admin Team",
+      "verifiedBy": "ShilpaPath Admin Team",
       "submittedHoursAgo": 72
     },
     {
@@ -588,7 +588,7 @@
       "caption": "Witnessed Bimla Devi mix fresh marigold extract with neem gum for natural golden pigment. Truly a living heritage.",
       "isPublic": true,
       "status": "verified",
-      "verifiedBy": "Sanskriti Admin Team",
+      "verifiedBy": "ShilpaPath Admin Team",
       "submittedHoursAgo": 54
     },
     {
@@ -603,7 +603,7 @@
       "status": "verified",
       "submittedHoursAgo": 12,
       "slaRemainingHours": 36,
-      "verifiedBy": "Sanskriti Admin Team",
+      "verifiedBy": "ShilpaPath Admin Team",
       "verifiedAt": "2026-11-10T07:19:38.459Z"
     }
   ],
@@ -623,7 +623,7 @@
       "slaRemainingHours": 28,
       "lat": 23.2384,
       "lng": 87.0712,
-      "verifiedBy": "Sanskriti Cultural Committee"
+      "verifiedBy": "ShilpaPath Cultural Committee"
     }
   ]
 }

@@ -1,4 +1,4 @@
-// Sanskriti - Lightweight RESTful & Secure Node.js Server
+// ShilpaPath (শিল্পপথ / शिल्पपथ) - Lightweight RESTful & Secure Node.js Server
 // Follows OWASP Top 10, CWE-23, CWE-79, CWE-319, and CWE-770 Security Standards
 // Zero external npm dependencies required (uses built-in https, http, fs, path, url)
 
@@ -333,7 +333,7 @@ const requestHandler = (req, res) => {
 
       if (data.action === 'approve') {
         database.defaultMemories[memIndex].status = 'verified';
-        database.defaultMemories[memIndex].verifiedBy = 'Sanskriti Admin Team';
+        database.defaultMemories[memIndex].verifiedBy = 'ShilpaPath Admin Team';
         database.defaultMemories[memIndex].verifiedAt = new Date().toISOString();
       } else if (data.action === 'reject') {
         database.defaultMemories[memIndex].status = 'rejected';
@@ -358,7 +358,7 @@ const requestHandler = (req, res) => {
       const item = database.defaultSubmissions[subIndex];
       if (data.action === 'approve') {
         item.status = 'verified';
-        item.verifiedBy = 'Sanskriti Cultural Committee';
+        item.verifiedBy = 'ShilpaPath Cultural Committee';
         
         // Add to active clusters so it immediately renders on the map
         const newCluster = {
@@ -375,7 +375,7 @@ const requestHandler = (req, res) => {
           heroImage: item.photo || 'https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1000&q=80',
           gallery: [item.photo || 'https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80'],
           route: 'community-discoveries',
-          historicalContext: item.description || 'Recently discovered community craft workshop verified by Sanskriti custodians.',
+          historicalContext: item.description || 'Recently discovered community craft workshop verified by ShilpaPath custodians.',
           craftTechnique: 'Preserved regional handicraft practiced by local indigenous masters.',
           i18n: {
             en: {
@@ -474,7 +474,7 @@ const requestHandler = (req, res) => {
 };
 
 // 7. Dual Server Engine: Supports HTTPS (TLS) & HTTP (CWE-319 Remediation)
-function createSanskritiServer() {
+function createShilpaPathServer() {
   const hasSslCerts = process.env.SSL_KEY_PATH && process.env.SSL_CERT_PATH &&
     fs.existsSync(process.env.SSL_KEY_PATH) && fs.existsSync(process.env.SSL_CERT_PATH);
 
@@ -493,16 +493,17 @@ function createSanskritiServer() {
   return http.createServer(requestHandler);
 }
 
-const server = createSanskritiServer();
+const server = createShilpaPathServer();
 
 function startServer(portToTry) {
   server.listen(portToTry, () => {
-    console.log(`====================================================`);
-    console.log(`  Sanskriti Cultural & Artisan Trail Server Running  `);
-    console.log(`  URL: http://localhost:${portToTry}                 `);
-    console.log(`  Admin PIN: ${ADMIN_PIN}                            `);
-    console.log(`  Security: CWE-23, CWE-79, CWE-319, CWE-770 Hardened`);
-    console.log(`====================================================`);
+    console.log(`========================================================`);
+    console.log(`  ShilpaPath (शिल्पपथ) Heritage Trails Server   `);
+    console.log(`  URL: http://localhost:${portToTry}                     `);
+    console.log(`  Admin PIN: ${ADMIN_PIN}                                `);
+    console.log(`  Security: CWE-23, CWE-79, CWE-319, CWE-770 Hardened    `);
+    console.log(`  Prototype Cost: ₹0 (Zero-Budget Student Prototype)     `);
+    console.log(`========================================================`);
   });
 }
 

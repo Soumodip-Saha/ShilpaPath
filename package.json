@@ -1,14 +1,14 @@
 {
-  "name": "sanskriti-heritage-craft-trails",
+  "name": "shilpapath-heritage-craft-trails",
   "version": "1.0.0",
-  "description": "Sanskriti - Self-guided heritage audio trails paired with direct zero-commission verified artisan directory (West Bengal, Bihar, Jharkhand)",
+  "description": "ShilpaPath (শিল্পপথ / शिल्पपथ) - Zero-cost web platform connecting travelers directly to verified craft clusters across West Bengal, Bihar, and Jharkhand",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "node test_security.js"
   },
   "keywords": [
-    "sanskriti",
+    "shilpapath",
     "bengal-crafts",
     "bihar-heritage",
     "jharkhand-tribal-art",

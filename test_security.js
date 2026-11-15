@@ -2,7 +2,7 @@ const http = require('http');
 const path = require('path');
 const fs = require('fs');
 
-console.log('--- STARTING SANSKRITI SECURITY & INTEGRATION TEST SUITE ---');
+console.log('--- STARTING SHILPAPATH SECURITY & INTEGRATION TEST SUITE ---');
 
 // 1. Check syntax of all JS files
 console.log('\n[TEST 1] Verifying Syntax of All JavaScript Files...');
@@ -73,7 +73,7 @@ async function runTests() {
   console.log('\n[TEST 2] Testing Static File Serving...');
   const resIndex = await makeRequest('GET', '/');
   console.log(`  GET / -> Status: ${resIndex.statusCode}, Content-Type: ${resIndex.headers['content-type']}`);
-  if (resIndex.statusCode === 200 && resIndex.data.includes('Sanskriti')) {
+  if (resIndex.statusCode === 200 && resIndex.data.includes('ShilpaPath')) {
     console.log('  ✓ Root / successfully returned index.html');
   } else {
     throw new Error('Root / failed to serve index.html');
@@ -191,7 +191,7 @@ async function runTests() {
   }
 
   console.log('\n======================================================');
-  console.log('  ALL SANSKRITI SECURITY & FUNCTIONAL TESTS PASSED!   ');
+  console.log('  ALL SHILPAPATH SECURITY & FUNCTIONAL TESTS PASSED!   ');
   console.log('======================================================');
 }
 
